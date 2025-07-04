@@ -18,8 +18,7 @@ Requirements:
 - QEMU or a virtual machine for testing
 
 Author:
-- You
-
+- brainz
 Created: July 2025
 Version: 1.0 GUI Alpha
 
