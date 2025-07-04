@@ -3,3 +3,6 @@ my very own os made by me sadly i will not be uploading the source Any time soon
 
 
 ### realease date between here and the end of summer break 
+
+ heres a preview of the standard wallpaper and logo prob
+ ![img](solarix_wallpaper.png)
