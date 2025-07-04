@@ -1,5 +1,32 @@
-# solarix-os
-my very own os made by me sadly i will not be uploading the source Any time soon feel free to use this in vms etc i will not be charging people for the usage later on i might make this open sourced 
+
+Solarix Operating System
+=========================
+
+Solarix is a lightweight 32-bit graphical operating system built from scratch.
+It uses a custom kernel, boots via GRUB, and initializes a VESA framebuffer
+to draw a simple GUI window environment.
+
+Key Features:
+- Custom kernel written in C and Assembly
+- VESA-compatible GUI (1024x768, 32-bit color)
+- Framebuffer graphics: windows, color fills, and more
+- Boots in under 1 second via QEMU
+
+Requirements:
+- i686-elf cross-compiler toolchain
+- GRUB 2 and grub-mkrescue for ISO generation
+- QEMU or a virtual machine for testing
+
+Author:
+- You
+
+Created: July 2025
+Version: 1.0 GUI Alpha
+
+-------------------------
+Project Home: /solarix
+Boot ISO:     solarix.iso
+
 
 
 ### realease date between here and the end of summer break 
