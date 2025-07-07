@@ -19,8 +19,9 @@ Requirements:
 
 Author:
 - brainz
+-  Drexxy
 Created: July 2025
-Version: 1.0 GUI Alpha
+Version: 1.0.1 GUI Alpha
 
 -------------------------
 Project Home: /solarix
